@@ -1,0 +1,8 @@
+*.exe
+*.zip
+preview.png
+current-menu-scan.json
+test-results.json
+test-snapshot.json
+last-error.txt
+self-test-backups-*/
